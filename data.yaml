@@ -1,0 +1,4 @@
+train: /content/yolov5/aquarium_pretrain/train/images
+val: /content/yolov5/aquarium_pretrain/valid/images
+nc: 7 
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
